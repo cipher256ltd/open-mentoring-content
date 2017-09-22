@@ -18,8 +18,6 @@ Before posting, think about whether it's necessary to post:
  - birth dates
  - contact phone numbers
  - addresses
-<br>
-# Do you need to post
  - details of family members
  - sexual orientation
  - education and employment history
