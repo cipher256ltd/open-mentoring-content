@@ -1,6 +1,5 @@
 ---
-title: Learn how to
+title: "Learn how to use signal"
 ---
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+- [Signal is a recommended tool to send encrypted messages securely](topics/practice-3-safe-phones/1-instant-messaging/6-howto-signal-install-android-content.md)
+- Or swipe to continue...
